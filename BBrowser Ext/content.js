@@ -13,15 +13,15 @@ var myIMG = document.createElement('img');
 
 
 //myIMG.src = http://media.tumblr.com/99e6dff8ba2ec3252b55ea59c46010bd/tumblr_inline_mlhctpF4k61qz4rgp.png;
-<<<<<<< HEAD
+
 //myIMG.src = 'chrome-extension://glgmaifogigloimajfdaianehkhlfjgh/Images/MiodaIbuki1.png';
 //myIMG.src = chrome.extension.getURL("Images/MiodaIbuki1.png");
 myIMG.src = imgSelection;
 
-=======
+
 //myIMG.src = 'chrome-extension://glgmaifogigloimajfdaianehkhlfjgh/Images/MiodaIbuki1.png'; /*ID location in chrome://extensions*/
-myIMG.src = chrome.extension.getURL("Images/MiodaIbuki1.png");
->>>>>>> 33fc1d3264e2c16c953d6f6a054aca7c5eddcd54
+//myIMG.src = chrome.extension.getURL("Images/MiodaIbuki1.png");
+
 
 myIMG.alt= 'miaow2';
 myIMG.title= 'miaow';
