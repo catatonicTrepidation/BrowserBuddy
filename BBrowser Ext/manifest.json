@@ -1,7 +1,7 @@
 {
 "manifest_version": 2,
-    "name": "Browser BUDDY",
-    "description": "D'AWWWWWWWWWWWWWWWWWWWWWWWWWWWW",
+    "name": "Browser Buddy EXPERIMENTAL",
+    "description": "EXPEREXPEREXPERIMENTAL",
     "version": "0.1",
     "content_scripts": [
         {
@@ -15,5 +15,10 @@
             "run_at": "document_end"
         }
     ],
-  "web_accessible_resources": ["Images/cat.jpg","Images/Shiro1.jpg","Images/SeriousRamen1.jpg","Images/Nyaruko1.jpg","Images/MiodaIbuki1.png","Images/MiodaIbuki2.png","Images/MiodaIbuki3.png","Images/MiodaIbuki4.png","Images/MiodaIbuki5.png"]
+  "icons": {
+    "16": "Images/IbukiOne16.png",
+    "32": "Images/IbukiThree32.png",
+    "48": "Images/IbukiIcon48.png"
+  },
+  "web_accessible_resources": ["Images/cat.jpg","Images/Shiro1.jpg","Images/SeriousRamen1.jpg","Images/Nyaruko1.jpg","Images/MiodaIbuki1.png","Images/MiodaIbuki2.png","Images/MiodaIbuki3.png","Images/MiodaIbuki4.png","Images/MiodaIbuki5.png","Images/Rika1.gif"]
 }
